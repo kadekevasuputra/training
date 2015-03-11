@@ -1,0 +1,15 @@
+Git Server
+- Gitolite (python, text-based)
+- Gitblit (java, web-based)
+- Gitlab (ruby, web-based)
+
+Client
+- git command line
+- Git Gui
+- Gitg
+- TortoiseGit (Windows explorer integration)
+
+Protokol Komunikasi
+- File Lokal / Windows File Sharing
+- HTTP
+- SSH
