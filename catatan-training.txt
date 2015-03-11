@@ -18,5 +18,5 @@ Membuat Repository GIT
 - Buat Folder Kosong
 - Jalankan git init hasilnya akan terbentuk folder .git
 
-Edit baris
-- Syalalala
+Merge Terakhir
+-Jangan merge lagi
