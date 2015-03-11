@@ -13,3 +13,7 @@ Protokol Komunikasi
 - File Lokal / Windows File Sharing
 - HTTP
 - SSH
+
+Membuat Repository GIT
+- Buat Folder Kosong
+- Jalankan git init hasilnya akan terbentuk folder .git
