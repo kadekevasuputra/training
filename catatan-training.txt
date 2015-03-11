@@ -18,4 +18,5 @@ Membuat Repository GIT
 - Buat Folder Kosong
 - Jalankan git init hasilnya akan terbentuk folder .git
 
-#Ubah Kadek
+Edit baris Ivan
+- Syalalala
