@@ -20,3 +20,6 @@ Membuat Repository GIT
 
 Edit baris Ivan
 - Syalalala
+
+Merge Terakhir
+-Jangan merge lagi
